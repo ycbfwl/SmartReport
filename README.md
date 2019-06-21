@@ -1,3 +1,3 @@
 # SmartReport
 
-轻量级的Repport平台
+轻量级的Report平台
